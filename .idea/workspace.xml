@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a658e828-14a3-4f83-908e-e840b51e08ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
@@ -29,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -58,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/urbun univercity/pythonProjectdForUniversity/PyCharm/UrbanDjango/templates/fourth_task",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/urbun univercity/pythonProjectdForUniversity/PyCharm/UrbanDjango/templates/fourth_task&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\urbun univercity\pythonProjectdForUniversity\PyCharm\UrbanDjango\templates\fourth_task" />
@@ -108,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731745069492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create app task4">
+      <option name="closed" value="true" />
+      <created>1731752557073</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731752557073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create app task2" />
     <MESSAGE value="create app task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="create app task3" />
+    <MESSAGE value="create app task4" />
+    <option name="LAST_COMMIT_MESSAGE" value="create app task4" />
   </component>
 </project>
