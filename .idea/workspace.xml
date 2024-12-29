@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a658e828-14a3-4f83-908e-e840b51e08ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731752557073</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create app task5">
+      <option name="closed" value="true" />
+      <created>1733921173965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733921173965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +122,7 @@
     <MESSAGE value="create app task2" />
     <MESSAGE value="create app task3" />
     <MESSAGE value="create app task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="create app task4" />
+    <MESSAGE value="create app task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="create app task5" />
   </component>
 </project>
